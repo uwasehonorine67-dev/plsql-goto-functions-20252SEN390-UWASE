@@ -1,0 +1,28 @@
+# Oracle files
+*.log
+*.trc
+*.trm
+
+# SQL Developer files
+*.jpr
+*.scc
+*.userprefs
+
+# Temporary files
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*~
+
+# Windows temporary files
+ehthumbs.db
